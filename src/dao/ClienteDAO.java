@@ -2,7 +2,7 @@
 package dao;
 
 import model.Cliente;
-import util.ConexaoUtil;
+import util.ConexaoUtil
 
 import java.sql.*; // Importa classes para manipulação de SQL
 import java.util.ArrayList; // Importa a classe ArrayList para criar listas dinâmicas
